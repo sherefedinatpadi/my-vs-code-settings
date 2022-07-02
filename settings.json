@@ -1,0 +1,98 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "window.zoomLevel": 2,
+  // "terminal.integrated.shell.windows": "C:\\windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+  "workbench.startupEditor": "newUntitledFile",
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 10,
+  "csharpextensions.privateMemberPrefix": "_",
+  "csharpextensions.useThisForCtorAssignments": false,
+  "files.exclude": {
+    "**/bin": true,
+    "**/obj": true
+  },
+  "cSpell.userWords": [
+    "Autoincrement",
+    "classname",
+    "Hebatullah",
+    "Mensur"
+  ],
+  "bracketPairColorizer.depreciation-notice": false,
+  "[html]": {
+    "editor.defaultFormatter": "HookyQR.beautify"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "bracket-pair-colorizer-2.depreciation-notice": false,
+  "workbench.editorAssociations": {
+    "*.db": "default"
+},
+  "security.workspace.trust.untrustedFiles": "open",
+  "workbench.colorTheme": "Shades of Purple",
+
+  "workbench.editor.untitled.hint": "hidden",
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "settingsSync.ignoredExtensions": [
+  
+  ],
+  "editor.fontFamily": "fira code",
+  "editor.fontLigatures": true,
+  "workbench.productIconTheme": "fluent-icons",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": true,
+  "editor.guides.bracketPairsHorizontal": true,
+  "editor.wordWrap": "on",
+  "terminal.integrated.cwd": "C:\\Users\\sherefedin.getahun\\source\\repos",
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "editor.cursorBlinking": "expand",
+  "editor.cursorSurroundingLines": 1,
+  "terminal.integrated.cursorWidth": 2,
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.cursorWidth": 3,
+  "terminal.integrated.cursorStyle": "line",
+  "omnisharp.enableImportCompletion": true,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "todohighlight.isCaseSensitive": true,
+  "todohighlight.keywords": [
+    {
+      "text": "VIDEO",
+      "color": "#fff",
+      "backgroundColor": "blue"
+    },
+    {
+      "text": "FIXME",
+      "color": "#fff",
+      "backgroundColor": "#e67e22"
+    },
+    {
+      "text": "LEC",
+      "color": "#FFF",
+      "backgroundColor": "#F1C40F"
+    },
+    {
+      "text": "BUG",
+      "color": "#FFF",
+      "backgroundColor": "red"
+    },
+    {
+      "text": "TODO",
+      "color": "#FFF",
+      "backgroundColor": "#2ecc71"
+    }
+    ,
+    {
+      "text": "WARNING",
+      "color": "#FFF",
+      "backgroundColor": "#e67e22"
+    }
+  ]
+}
