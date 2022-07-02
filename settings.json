@@ -47,7 +47,7 @@
   "editor.guides.bracketPairs": true,
   "editor.guides.bracketPairsHorizontal": true,
   "editor.wordWrap": "on",
-  "terminal.integrated.cwd": "C:\\Users\\sherefedin.getahun\\source\\repos",
+  "terminal.integrated.cwd": "C:\\Users\\{YOUR.PC.NAME.WILL.BE.HERE}\\source\\repos",
   "[typescript]": {
     "editor.defaultFormatter": "vscode.typescript-language-features"
   },
